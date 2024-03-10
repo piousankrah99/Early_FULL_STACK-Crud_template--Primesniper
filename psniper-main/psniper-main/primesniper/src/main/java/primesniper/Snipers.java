@@ -8,6 +8,7 @@ import javax.persistence.*;
 @Entity
 @Table(name = "primesniperitemsdb")
 @AllArgsConstructor
+@NoArgsConstructor
 @Getter
 @Setter
 @ToString
